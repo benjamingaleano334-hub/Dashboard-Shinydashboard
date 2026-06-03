@@ -33,7 +33,7 @@ Podés ver el dashboard funcionando aquí:
 👉 [https://benjamingaleano334.shinyapps.io/dashboard_r/](https://benjamingaleano334.shinyapps.io/dashboard_r/)
 
 ## 🖼️ Vista previa
-![Vista previa del Dashboard](r_dashboard.png)
+![Vista previa del Dashboard](dashboard_r/r_dashboard.png)
 
 
 ## 📑 Informe
