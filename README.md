@@ -42,8 +42,3 @@ El repositorio incluye el archivo `informe.pdf` con la narrativa del proyecto, c
 ## 👤 Autor
 Benjamín Galeano – Trabajo Práctico Integrador de Ciencia de Datos
 
----
-
-✅ Con este README tu repo queda prolijo y profesional: explica el proyecto, cómo instalarlo, cómo correrlo, incluye el link online y deja espacio para la captura visual.  
-
-¿Querés que te muestre cómo generar automáticamente la captura del dashboard desde R con `webshot` para que no tengas que sacar foto manual?
