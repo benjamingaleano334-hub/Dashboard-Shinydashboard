@@ -1,0 +1,55 @@
+---
+title: "Informe – Dashboard Interactivo con R y ShinyDashboard"
+author: "Benjamín"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+---
+
+**Título del proyecto:** *E-Commerce Inventory Analytics*
+
+---
+
+### 🎯 Audiencia objetivo  
+El dashboard está dirigido a responsables de negocio y gestión de inventario en empresas de e‑commerce. La aplicación busca ofrecer una herramienta clara y usable para interpretar métricas clave y tomar decisiones estratégicas sin necesidad de conocimientos técnicos avanzados.
+
+---
+
+### 📊 Elección del dataset  
+Se seleccionó un dataset público de ventas de e‑commerce (Kaggle) con más de 113.000 registros. La elección se justifica por:  
+- Relevancia actual del comercio electrónico.  
+- Variedad de variables (producto, categoría, país, precio, cantidad).  
+- Potencial narrativo para mostrar patrones de consumo y estacionalidad.  
+
+---
+
+### 🧩 Estructura narrativa  
+- **Pregunta general:** ¿Cómo evolucionan las ventas y qué productos/categorías generan mayor rentabilidad?  
+- **Pregunta analítica:** ¿Qué patrones de demanda permiten optimizar decisiones de stock y maximizar beneficios?  
+- **Jerarquía de información:**  
+  - Primarias → ingresos y beneficio.  
+  - Secundarias → unidades vendidas y diversidad de productos.  
+  - Exploratorias → evolución mensual, ventas por país, participación por categoría, estacionalidad.
+
+---
+
+### 🌍 Contexto del problema  
+El crecimiento del e‑commerce genera desafíos en la gestión de inventario: exceso de stock, costos de almacenamiento y riesgo de quiebres de stock. Comprender la estacionalidad y los productos más rentables es clave para equilibrar oferta y demanda.
+
+---
+
+### ⚡ Tensión o hallazgo en los datos  
+El análisis muestra que las ventas presentan picos en determinados meses y que algunas categorías concentran gran parte de los ingresos. Sin embargo, otras categorías generan alto volumen de unidades pero bajo margen de beneficio, lo que plantea una tensión entre cantidad vendida y rentabilidad.
+
+---
+
+### ✅ Resolución o recomendación  
+El dashboard permite identificar:  
+- Meses de mayor demanda → planificar stock con anticipación.  
+- Categorías más rentables → priorizar inversión y promoción.  
+- Productos de bajo margen → revisar precios o estrategias de marketing.  
+
+En conclusión, la aplicación integra análisis técnico y comunicación visual para facilitar decisiones de negocio en e‑commerce, ofreciendo una narrativa clara y usable para la audiencia objetivo.
+
+---
