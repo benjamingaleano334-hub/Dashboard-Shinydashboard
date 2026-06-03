@@ -1,7 +1,3 @@
-Perfecto, Benjamín 🙌. Te armo un **README completo sin mezclar estilos**, todo en texto plano con secciones claras y tu link de shinyapps.io integrado. Así lo podés copiar directo a tu `README.md` en GitHub:
-
----
-
 # 📊 Dashboard de Ventas e Inventario – R Shiny
 
 Este proyecto consiste en un dashboard interactivo desarrollado en R Shiny para analizar ventas e inventario de un negocio de e-commerce.
@@ -37,7 +33,7 @@ Podés ver el dashboard funcionando aquí:
 👉 [https://benjamingaleano334.shinyapps.io/dashboard_r/](https://benjamingaleano334.shinyapps.io/dashboard_r/)
 
 ## 🖼️ Vista previa
-![Vista previa del Dashboard](r.png)
+![Vista previa del Dashboard](r_dashboard.png)
 
 
 ## 📑 Informe
